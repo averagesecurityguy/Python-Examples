@@ -6,9 +6,10 @@ This is not meant to be a python tutorial. If you need a tutorial please check o
  - http://learnpythonthehardway.org/
  
 Examples:
-
 read_file.py - opens a file, reads each line, and processes the line.
 write_file.py - write data to a file
 read_write_file.py - opens two files, read from one, write to the other
+
+Coming Soon:
 server.py - python server with sockets
 client.py - python client with sockets
