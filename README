@@ -1,1 +1,14 @@
-This is a work in progress. This will be a repository for example scripts to do common pentesting tasks in python. Feel free to make suggestions for new examples.
+When I was learning python I had to go all over the web to find the examples I needed. I decided to put some common examples here to make it easier for other who are learning python to find. If these scripts are helpful or if you have suggestions for other examples that should be added, please let me know.
+
+This is not meant to be a python tutorial. If you need a tutorial please check out the following resources:
+ - http://docs.python.org/tutorial/index.html
+ - http://www.swaroopch.com/notes/Python
+ - http://learnpythonthehardway.org/
+ 
+Examples:
+
+read_file.py - opens a file, reads each line, and processes the line.
+write_file.py - write data to a file
+read_write_file.py - opens two files, read from one, write to the other
+server.py - python server with sockets
+client.py - python client with sockets
