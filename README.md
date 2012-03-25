@@ -22,9 +22,9 @@ Examples
 * `read_write_file.py` - opens two files, read from one, write to the other
 * `server.py` - Python server with sockets
 * `client.py` - Python client with sockets
+* `read_parse_url.py` - open a url and parse data
 
 Coming Soon
 -----------
 
-* `read_parse_url.py` - open a url and parse data
 * `read_xml_file.py` - open an xml file and parse the data
