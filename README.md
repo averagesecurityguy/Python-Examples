@@ -28,3 +28,4 @@ Coming Soon
 -----------
 
 * `read_xml_file.py` - open an xml file and parse the data
+* `regular_expression.py` - the basics of using regular expressions
