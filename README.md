@@ -23,9 +23,9 @@ Examples
 * `server.py` - Python server with sockets
 * `client.py` - Python client with sockets
 * `read_parse_url.py` - open a url and parse data
+* `regular_expression.py` - the basics of using regular expressions
 
 Coming Soon
 -----------
 
 * `read_xml_file.py` - open an xml file and parse the data
-* `regular_expression.py` - the basics of using regular expressions
