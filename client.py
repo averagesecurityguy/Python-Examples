@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 #-----------------------------------------------------------------------------
 # This example will open a client connection to localhost on the specified
 # port. Data is sent to the server and then recv'd from the server. The data 

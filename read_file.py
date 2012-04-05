@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 #-----------------------------------------------------------------------------
 # This example will open a file and read it line by line, process each line,
 # and write the processed line to standard out.

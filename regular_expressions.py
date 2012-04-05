@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 #-----------------------------------------------------------------------------
 # This example will show the basic uses of regular expressions.
 #
